@@ -80,8 +80,7 @@ Check out our [QuickStart Guide](https://kizzydocs.vercel.app/quickstart/install
 - [x] Use Images from Gallery
 
 ## Getting Started
-Read the Setup Guide from
-[![DOCS](https://kizzydocs.vercel.app/api/og?title=Kizzy+Docs)](https://kizzydocs.vercel.app)
+Read the Setup Guide from [the Kizzy Documentation](https://kizzydocs.vercel.app/api/og?title=Kizzy+Docs)](https://kizzydocs.vercel.app)
 
 
 ## Build
